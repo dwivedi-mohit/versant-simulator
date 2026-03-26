@@ -1,0 +1,563 @@
+Repeats: 1. I left my hat in the restaurant. 2. With all the Good programs available, it is difficult to make a quick decision. 3. I remind you to send your invoice last week. 4. His desk area and book shelves are always well organized. 5. I am sorry, he just stepped out for a moment. 6. If you are worried just give her a Call. 7. We have to sell a lot in Japan. 8. Have you had breakfast yet? 9. It’s not too late to change your mind. 10. I will try to do my best. 11. Enter through the door on your right. 12. How many people do you expect to attend the meeting? 13. Do you have a final written approval for the project? 14. When you go for an interview, you must be comfortably dressed. 15. Are you willing to relocate or tied to that area? 16. We make special reservations for International clients. 17. Have you tried applying for a job? 18. Do you have time to talk? 19. Where is the exit located? 20. Check-in in the front desk before you take seat. 21. Her plane leaves at 9:15 a.m. 22. Management refused to serve any more. 23. I started my new job next week. 24. I haven’t seen her over ten years. 25. My job is exciting, but it demands a lot of time. 26. With experience you can improve your project estimate. 27. I just wanted to check-in and see if there is any progress. 28. The expenses are more than the budget allowed. 29. This model is currently out of stock. 30. This floor plan is not only larger but also conveniently laid out. 31. Exit through your left. 32. I need help with the new printer. 33. We can’t offer that, there is something I can’t do. 34. If you find any error in this, be sure to let me know. 35. This letter must be get by Tomorrow. 36. Shipping and handling costs are not included. 37. The search for a qualified software Engineer is proved difficult. 38. I can offer you an upgrade. 39. They wrote down each other phone numbers. 40. After January 1st rates will be lowered considerably. 41. The Author of this text would have liked more figures. 42. Do you have any reference? 43. What time do you get up in the morning? 44. You have to feel a lot in pain. 45. Hire him immediately. 46. If you are not registered, please complete the information given below. 47. The pay is too low for me to work there anymore.
+1
+48. Are you dreaming your career in healthcare? 49. I have a good idea. 50. I think I will buy this hat too. 51. Would you send me the parts over as soon as possible. 52. The alarm isn’t loud enough. Isn’t it? 53. It would take six months to complete the construction of the new office. 54. Please join us in the next spring for our annual conference in New York city. 55. This report seems to be out of date. 56. Their explanation would be more easier to understand if they have presented it more slowly. 57. He can fix anything. 58. I am never late for work. 59. He want to know if the price includes breakfast. 60. Highly motivated people are always valued by our company. 61. We almost missed the train. 62. By middle of the morning, half of the sales team had left already. 63. We have a corporate program for those who are interested in larger purchases. 64. I heard that they made quite large profits from the sale. 65. Which car is yours? 66. The book is so interesting that you won’t miss a word. 67. Please join us for lunch next Tuesday. 68. I think I’ll have one too. 69. How long have you been studying French? 70. Are there any customer support services available? 71. They are trying to fix the problem but so far they had no luck. 72. It took several months. 73. In this area, agriculture is the major industry. 74. Please take the car, you have to pay for the parking. 75. Orders placed ten day ahead must be picked at the counter. 76. My parents had a karaoke machine. 77. Have you ever tried the Mexican food? 78. People really shouldn’t text while they are walking. 79. Well I’m interviewing for the position of production assistant. 80. Good afternoon, do you have reservation with us? 81. Would it be possible to use the Computer in your business centre to research these hotels? 82. I missed my fight to Tokyo because my cap got stuck in traffic. 83. Would it be possible to have the suitcase replaced by the airline? 84. Actually, I read somewhere that banner ads do influence. 85. It’s been cloudy whole week. 86. Everyone has an opinion about what the city should be spending money. 87. First I want to talk about the wats that you can prepare yourself to ask for a raise or promotion. 88. Is this the right price? 89. Let’s wash the dishes before we leave. 90. It suppose to rain tomorrow. Isn’t it? 91. Their loud talking annoyed people seated nearby. 92. His car is being repaired.
+2
+93. The new office is across the street from the café. 94. I saw him yesterday but not today. 95. Let’s put our heads together and come up with a solution. 96. Can you tell them we are going to be late? 97. The flat on the next door is for sale. 98. Bring your resume and list of references to the meeting. 99. Don’t eat while you are working. 100. I always wanted to learn how to play guitar. 101. The reason is not at all clear to me.
+102. The company is having party for all employees this weekend.
+103. It's the right thing to do in my opinion.
+104. What time do you get up in the morning?
+105. The most practical choice is a policy that will cover your liabilities.
+106. Late charges will be added after the 10th.
+107. Since you don’t want seem to like my ideas can you suggest something better.
+108. Your business card should arrive soon.
+109. The alarm isn’t loud enough.
+110. A model for powerful new is currently is being build.
+111. My sister’s company was established quite some time ago.
+112. I must have the wrong number.
+113. Refusing into the following the rules it around for immediate suspension and loss of pay.
+114. Let’s stop at the bank on the right hand.
+115. How long do you think we have to wait?
+116. I heard that they made a quite large profit from their sale.
+117. I don’t think are we able get way before 7 tonight.
+118. Take some time to think about the options available to you.
+119. How can we set all these text onto such a small space.
+120. Surprisingly we can manage to raise funds to repair project.
+121. Please cross check all reports before sending the mail.
+122. Today's workshop will take place a little earlier than we taught.
+123. How long do you think we'll have to wait?
+124.As a matter of policy representatives may not their names to the customers.
+SENTENCE BUILDS:
+3
+1) She didn’t notice –the book-who-took A) She didn't notice who took the book. 2) I haven’t been- restaurant- to a Japanese. A) I haven't been to a japanese resturant. 3) Was my sister- who- called me- the person. A) The person who called me was my sister. 4) We wondered –would-fit in here- whether the new piano. A) We wondered whether the new piano would fit in here. 5) The packet- tomorrow morning- will be sent -A) Tomorrow morning the packet will be sent. 6) I have- my homework- finished -A) I have finished my homework. 7) The samples- last week- were delivered -A) The samples were delivered last week' 8) Was reading- my mother-her favourite magazine. A) My mother was reading her favourite magazine. 9) Very old- is- this house -A) This house is very old. 10) For her birthday- I sent my mother- some flowers. A) I sent my mother some flowers for her birthday. 11) The horse- the cowboy- rides on. A) The cowboy rides on the horse. 12) The falling- very pretty- leaves are. A) The falling leaves are very pretty. 13) The dishes- did you -finish cleaning. A) Did you finish cleaning the dishes? 14) To the library- Eric once- drive. A) Eric once drive to the library. 15) Rain today- it is going to-I think. A) I think it is going to rain today. 16) What movie- last night- did you watch. A) What movie did you watch last night 17) Yourself- it-do. A) Do it yourself. 18) In the-bed--stay. A) stay in the bed. 19) All the coffee- he- drank. A) He drank all the coffee. 20) For the test- studied a lot-I. A) I studied a lot for the test. 21) For8000$-he had sold-his small farm. A) He sold his small farm for 8000$. 22) In his direction- I looked- for a second. A) I looked for a second in his way. 23) My boss- to London- moved. A) My boss moved to London. 24) Of your family- any pictures- do you have. A) Do you have any pictures of your family?
+4
+25) To their leader- listen carefully- the young man A) The Young man listen carefully to their leader. 26) Real smiles and fake smiles- by different parts of the brain- are controlled A) Real smiles and fake smiles are controlled by different parts of the brain. 27) Of those weeks- had one - have you ever -A) Have you ever had one of those weeks. 28) Requires some preparation- at a job interview- making a good impression A) Making a good impression at a job interview requires some preparation. 29) Shows respect- being punctual- in Korea A) Being punctual in korea shows respect. 30) You should-actual experience and qualifications- speak A) You should speak actual experience and qualifications. 31) You should-while working- not eat A) You should not eat while working. 32) Where should- this weekend-we go A) Where should we go this weekend. 33) The weather-nice-should be A) The weather should be nice. 34) To the airport- take him- she will A) She will taje him to the airport. 35) Report is- due today-that financial A) That financial report is due today. 36) You should select- your family's needs - insurance that suits A) You should select insurance that suits your family needs. 37) She was ready- to begin the trial-the judge told them A) The judge told them she was ready to begain the trail. 38) We - leaving-are A) We are leaving. 39) Tomorrow- can you still - pick me up tomorrow A) ? 40) Working- that radio-has stopped A) That radio has stopped working. 41) Your business card directly- to present- remember A) Remember to present your business card directly 42) Haven't you- abroad-you've lived A) You've lived abroad. haven't you? 43) For myself- to buy one-I'd like. A) I'd like to buy one for myself 44) Many farmers- growing corn-stopped A) Many farmers stopped growing corn 45) The green ones- than the blue ones- are more expensive. A) The green ones are more expensive than the blue ones 46) Receive a bonus -the workers-will not. A) The workers will not receive a bonus 47) That my computer- sometimes I wish- would be more reliable A) Sometimes I wish that my computer would be more reliable 48) Next week-when does-the workshop start -A) When does next week the workshop start
+5
+49) For a large bowl-of chicken soup- the customer asked. A) The customer asked for a large bowl of chicken soup 50) Are they-where-going. A) Where are they going? 51) Had been working-your ream-the hardest. A) Your ream had been working the hardest 52) Was asleep-by then-nearly everybody A) Everybody was a sleep neraly by then. 53) Has been delivered-he doesn't know-if the letter. A) He doesn't know if the letter has been delivered. 54) Into this country- three teenagers-brought the rare painting A) Three teenagers brought the rare painting into this country 55) Was listening to- my sister- her favourite music A) My sister was listening to her favourite music. 56) Has been repaired- by her daughter- the computer A) The computer has been repaired by her daughter. 57) A lockdown-it was- we thought A) We thought it was a lockdown. 58) So small-is-the world A) The world is so small. 59) Have been- it could- something else A) It could have been something else. 60) Or cancelled- the concert-will be postponed A) The concert will be postponed or cancelled. 61) Long age- were born- my grand parents A) My grand parents were born long ago. 62) Open- please leave-the door. A) Please leave the open door. 63) To the radio- listening-I am A) I am listening to the radio. 64) Doing-how are-you. A) How are you doing? 65) Singer- who is-your favourite. A) Who is your favourite singer? 66) All the- were broken- windows. A) All the windows were broken. 67) This milk- very good- doesn't taste. A) This milk doesn't taste very good. 68) Can't stay- there-she. A) She can't stay there. 69) Worried-about his father-raj. A0 Raj worried about his father. 70) Advised her-to go to bed-the doctor. A) The doctor advised her to go to bed. 71) What had occurred-in her absence- they discovered A) They discovered what had occured in her absense. 72) Me-later-call. A) NCall me later.
+6
+73) As many videos- he will make-as he can. A) He will make as many videocalls as he can 74) From Mumbai-the flight-is delayed. A) The flight is delayed from mumbai. 75) Easily offended-not-I am. A) I am not easily offended. 76) Staying here- how long-are you. A) How long are you staying here. 77) Of mine- he is-a friend. A) He is a friend of mine. 78) Next door-is for sale-the house. A) The house is for next door. 79) That mess- his brother-cleaned up. A) His brother cleaned up that mess. 80) Available later today-the new training-schedule will be A) The new training schedule will be availabe later today . 81) Our recent report-in detail-describe the finding A) Our recent report describe the finding in detail. 82) All the-were broken-windows A) All the windows were broken. 83) Talked -with the dog-why A) Why with the dog talked. 84) Some old friends- to see-we are going. A) We are going to see some old friends. 85) That building-internet access- has limited A) That building has limited internet access. 86) Prices-these-are high A) These are high prices. 87) Choose someone-let's-to leave the group A) Let's choose someone to leave the group. 88) Your name on the page-on fornt-make sure you write. A) On front make sure you write your name on the page . 89) Were unwilling to help- and her assistant-the manager A) The manger and her assistant were willing to help. 90) Fix the paper jam-of the machine to-open the top cover A) ? 91) Mark-the missing money-wondered about A) Mark wondered about the missing money. 92) This booklet-what you need-clearly discribes A) This booklet clearly describes what you need. 93) Of every transaction-the two secretaries-kept an accurate record of A) The two secretaries kept an accurante record of every transaction. 94) You can-a password-easily create A) You can easily create a password. 95) A meal- I often-be due A) I often be due a meal. 96) You learned this- how fast-I am amazed A) I am amazed how fast you learned this.
+7
+97) Has fortunately-became vacant- the office nearby A) The office nearby has fortunately became vacant. 98) Left immediately-after the meeting ended- the sales man A) The sales man left immediately after the meeting ended. 99) There are-problems to discuss- a lot of A) There are a lot of problems to discuss. SENTENCES BUILDS:
+⦁Didyouhear/weresold/thatthecompany
+⦁Didyouhearthatthecompanyweresold
+⦁Herplane/anhourlate/hadarrived
+⦁Herplanehadarrivedanhourlate.
+⦁Andpatience/takesconfidence/negotiatingasalary.
+⦁Negotiatingasalarytakesconfidenceandpatience.
+⦁Youagain/tosee/Ididn’texpect
+⦁Ididn’texpecttoseeyouagain.
+⦁Additionalhelp/wemayneed/duringtheholidays
+⦁Wemayneedadditionalhelpduringtheholidays.
+⦁Manexpectedthat/blastedlonger/ourmeeting
+⦁Manexpectedthatourmeetingblastedlonger.
+⦁Nobodytrulyunderstood/herstafftodo/whatsheexpected
+⦁Nobodytrulyunderstoodwhatsheexpectedherstafftodo.
+⦁David/forbusiness/travelsfrequently
+⦁
+⦁Davidtravelsfrequentlyforbusiness
+⦁Alocalhotel/30
+⦁
+⦁Alocalhotelhasagreed30
+⦁[03−Apr10:57AM]ShanmukhaSrinivasLingala
+⦁SENTENCECOMPLETION::
+⦁1.Idon’tknowwhat I wrote I’m going to rewrite is completely.
+⦁2.Heburnedtheoilandthefireleft’s a black mark above the stove.
+⦁3.Thebroadcastingcompanyiffundedbythegovernmenthoweverownsa
+8
+television pay a annual- licence premium.
+⦁4.Tocelebrateour first major success , we are going throw a party.
+⦁5.Incitieswithagoodpublictransportit’s hard to understanding why people insist on drawing themselves to work.
+⦁6.Whenbybicyclegotaflattyre,I had take the train to work.
+⦁7.Becausethecompanydidnotacceptapplicationbymail.Hehadtosubmithis application using the company’s website.
+⦁8.Thecitycanbedividedintwoparts,theoutersectionarerarelynew, while historical city centre is rather old, indeed.
+⦁9.Ilovepets.I’mamemberofananimalprotection group and to volunteer work once a month.
+⦁10.Ifyoudon’tmeetthe height requirement you are not allowed to get on the ride.
+⦁11.Inmycompany,itisthemanager’sjobtodivideworksamongthe team members.
+⦁12.Negotiationscametoahaltasleadersstruggledtoreachtermsthatwerecommon to both parties.
+⦁13.Heisrunninglate,heshouldhavebeenhereanhourago.
+⦁14.MyfriendwhohaslivedinNewYorkallhislifetookmeonapersonaltripof the city.
+⦁15.Agoodpolicyistoalwaysrespondtocustomerrequestswithin24hours.Otherwise, they tend become annoyed and may find other providers.
+⦁16.It’slooklikethisdocumenthasbeeneditedisthisfinalreport?
+⦁17.Wehadplannedtogohikingtoday,buttheweatherwassobadthatwehad to come up with an alternate plan.
+⦁18.Therewasaclearblueskyandsunwasshining.
+⦁19.Beforeyoudriveoverthebridgeyouhavetopaythetaxat the booth.
+⦁20.Thetrainingprogrammeoffera wide selection of course to any interested employee at a minimum charge.
+⦁21.Workerswhohavehavepreviouslycompletedtrainingareexemptedfrom the new training requirement.
+⦁22.Idroppedmy clothes off at the dry cleaner on my way to work this
+9
+morning.
+⦁23.He’ssoconcernedfortheenvironmentthatIwasn’tsurprisedwhenhetold me the soles of his shoes were made out of his old tries.
+⦁24.Pleasecheckallenvelopsforthecorrectreturnaddress.
+⦁25.Pleasemakesurethatallseatbeltsaresecurelyfastened.
+⦁26.Thecompanyachievedit’stargetlastyeararereportedaprofit.
+⦁27.Theyfoundthatgadgetslikephonesandsmallelectronicdevicesare very popular among online shoppers.
+⦁28.Youmaynotagreewith his method, but there’s no question that he makes a lot of money for the company.
+⦁29.Ifyouwantahardworkinganddependableemployee,Ihighlyrecommend that you hire him. 30. The amount of air pollution in this town has increased substantially since the factory opened.
+⦁31.Thenumberofattendeesforexceededourexceptions.Theeventsitewasvery crowded. It was not even was to walk around.
+⦁32.Thestorehadonlybeeninbusinessfortwomonthswhentheownersold it.
+⦁33.Theeventwasorganizedbyanaudienceofover30,000people.
+⦁34.IfyouwanttomeetwiththeCEO,youneedtomakeanappointmentweek in advance.
+⦁35.Evenifyourunfast,youprobablywon’tbe able to catch the train it’s too late.
+⦁36.Thankyouverymuchforyourhelponsuchshortperiodit helped us immediately.
+⦁37.Allthecitycouncilmembers,withtheexpectationof one, voted against the new law.
+⦁38.Thelibraryinauguratedtheeventbypostingflyersthroughthecity.
+⦁39.Youneedparkingticketif you want to leave your car here.
+⦁40.Icouldn’tbelieveifwhenheagreedtomakeanannouncementon the show tonight.
+⦁41.Shewastemporarilyshine,bythebrightnessofthesun.
+⦁42.Thebakerhadseveralburnson his wrists from the times he had touched the
+10
+sides of the oven.
+⦁43.Theresidentswereadvisedtoevacuatetheirhomesbeforethe storm reached them.
+⦁44.Lockyourvaluablesinthesafehopesinyourhotelroom.
+⦁45.Aftermarking one last modification to the layout, the new letter was ready to be sent out.
+⦁46.Ican’timaginewhat be like having to do a task like his all day.
+⦁47.Finally,everythingIhadtodoisfinishednowthattheprojecthasreachedend.
+⦁48.Whentravellinginaforeigncountry,youshouldalwayscarryyourpassport or some form of identity card.
+⦁49.Ithastobeseenwhetherthecompanywillstayinbusinessnextyear.
+⦁50.Ihadtotakeoutaloanfrom the bank cover the cost of replacing the roof of my house.
+⦁51.Althoughsalesweredownlastquarter,theownerhadhighhopesthat business would improve soon.
+⦁52.Thisisthecuttingedgetechnology it’s the best of the market.
+⦁53.Ihavetroublesleepingatnight,soIusuallywakeupverytired.
+⦁54.I’masalesman,andyouwhatdoyoudo.
+⦁55.Themanmisplacedhis car keys and spent an hour looking for them this morning.
+⦁56.Thespeakerattheconferencewasveryinteresting.Ienjoyedhis talk very much.
+⦁57.Overthreehundredpeoplewitnessedthestore’sgrandopening.
+⦁58.Mysisterisrecoveringfromthesurgeryverywell.Thedoctortoldusthatshe would be able to go home next week.
+⦁59.Theproductisoutofstockuntilnextconsignmentarrives.
+⦁60.Citybuildingcanonlybesotall.Theexactheightwilldependon local regulations.
+⦁61.Formoreinformationabout the product please consult the instruction manual.
+⦁62.Thenewtrainersaredoingalong just fine.
+11
+⦁63.Theclasshastobepausedindefinitely because of the summer schedule.
+⦁64.Hecanplaceyour order as soon as you know what you want to purchase.
+⦁65.Shegetshersuppliesatalowrate because she buys in bulk.
+⦁66.CanIbringyousomethingtodrink?Perhapsteaorcoffee.
+⦁67.Iwentshoppingyesterdayandspentallmysavings.
+⦁68.Ineedtowriteyourfirstname.Howdoyoupronounceit?
+⦁69.Shewasjuniormanagerbutnowshehasbeenpromotedto a senior management position.
+⦁70.Sherantothecorner,butshejustmissedthe bus, so she had to wait for the next one.
+⦁71.You’redrivingtoofastyou should slow down.
+⦁72.Ihaven’teatenanythingallday.I’msohungry!
+⦁73.Shewasawardedapromotionbased on her excellent performance on the job.
+⦁74.Itwassohotoutside that no one wanted to leave the air-conditioned house.
+⦁75.I’mnotsureIcancometomorrow.I’llhavetochangemy schedule.
+⦁76.Somepeoplewearglasses/spectaclestohelpthemseebetter.
+⦁77.Theelevatorisbroken,soyouwillhavetotakestepstogettothesecondfloor.
+⦁78.Whereismyjacket?Ican’tfindit.
+⦁79.Myhouseisverysmall.There’sjustmymother,father,andme.
+⦁80.Iwasrecentlytransferredform the Berlin office to the Tokyo office.
+⦁81.Don’tforgettoaskfor a receipt when you pay.
+⦁82.Sinceyou’vefinishedeverythingelse,fortherestof the week please focus your attention on finishing the expense reports.
+⦁83.Recentstudieshaveshownthattheshoppinghabitsof consumers have changed dramatically in the past ten years.
+⦁84.Althoughsalesweredownlastquarter,theownerhadhighexpectationthat business would improve soon.
+12
+⦁85.Iknowyoulovetravellingabroad.Wouldyoubeablein a position in our overseas office?
+⦁86.Weofferourcustomerstheserviceof placing orders by phone or online.
+⦁87.I’msorryI’mlate.Iwokeup late this morning.
+⦁88.Howmuchdoesthenecklacecost?Idon’tseeaprice.
+⦁89.Thebillwasn’tright.Ithinktheymadea mistake.
+⦁90.Myearsare ringing because the music was so loud at the concert.
+⦁91.ShouldIturnrightorleftatthenextcorner.
+⦁92.Let’spostponetomorrow’s presentation until next week. I’m just too busy to prepare for it right now.
+⦁93.TodayisTuesday.YesterdaywasMonday.
+⦁94.Whattimeisit?Idon’thaveawatch.
+⦁95.CanyouturnthelightsON?Ican’tseeanything.
+⦁96.Myflightdepartedtenminuteslaterthanscheduledbutarrivedontimeat the destination.
+⦁97.Anincreasingnumberof the businesses have recently shut down due to the economic downturn.
+⦁98.Theemployeesofourfactorymustfollowastrictsetofsafetyguidelines.
+⦁99.Idon’thavemycreditcard.Imusthavekeptitathome.
+⦁100.Whenitrains,therearedarkclouds in the sky.
+DICTATIONS
+⦁Ihavetoagreewithyou.
+⦁Thecompanyfirstopened,whenIwasmuchyounger.
+⦁Idon’thaveanyinformation.
+⦁It’sagoodideatocreateadifferentversionofyourresume.
+⦁Youcanusethecomputerinaminute.
+⦁Iwouldlovetogo.
+⦁Doyoulivehere?
+13
+⦁Wherethepens,weusedtowriteontheboard?
+⦁Pleasenotethatthephoneandthefaxnumberwillremainthesame.
+⦁Thehotelsaresonicehere.
+⦁I’llseeyouonThursday.
+⦁Varioustaxbenefitsareavailableforyouyouremployees.
+⦁Ihavetomorrowssheetplease.
+⦁Havingapetcanreducestress.
+⦁I’llbefinishedbyFriday.
+⦁Reportanycomputerissuestotechnicalsupport.
+⦁Let’sputourheadstogetherandcomeupwithsolution.
+⦁Weneedtomakesurethatourdepartmentisreadyforinspection.
+⦁Hesaid,hewouldlikeacupofcoffee.
+⦁Iturneddowntheofferbecausetheyneededsomeonewhocouldtravel.
+⦁Today’smeetingwilltakeplacelittleearlierthanwethought.
+⦁Iknewsomethingwouldgowrongwiththeplan.
+⦁Theplanwillbedrawntomorrowmorningwheneveryoneistogether.
+⦁Whydoyouseesomeoftheplantsdidn’tgrow?
+⦁Theproposalisfinished.
+⦁Doyoulivehere?
+⦁It’srainingatthemoment.
+⦁Pleasereplytothisemailifyou’reattendingtheseminar.
+⦁Thetraincomeshereeverytwentyminutes.
+⦁Iliketovisitmyparentsontheweekends.
+⦁It’sagooddayforbeingoutdoors.
+⦁Accordingtotheweatherforecastit’sgoingtobereallyhotthisweekend.
+⦁Ithrewthemagazineawayyesterday.
+⦁Thedocumentneedstobeedited.
+14
+⦁I’llbebackinthemiddleofSeptember.
+⦁Theprecedingcustomerisrepair.
+⦁Iwishwedidn’thavetoworkthatnight.
+⦁Whenisthegame?
+⦁Theypresentedaplantoreducethelargedebt.
+⦁Thecompanyhasgrowntoolargeovertheyears.
+⦁Idon’tliketoeatbreakfast.
+⦁Sheknowsseveraljournalistswhoworkforalargenewspaper.
+⦁I’mbusylet’stakeabreak.
+⦁PrecedingorTheheatingsystemwasjustrepaired.
+⦁Manycompaniesoperateinmorethanonecountry.
+⦁Thehumanresourcesdepartmentdoingeverythingitcan.
+⦁Canyouinturnthelossoverthecompany.Thenewinsurancehasalossoverthe company.
+⦁Ieatthereeverynight.
+⦁Givemeyourphoneifyouneedhelpmoving.
+⦁Justfoodatschoolshouldbebanned.
+⦁Myneighborhasbeenpracticingthepianoforthirteenyears.
+⦁Everyoneexcepted,hedecidedtogo.
+⦁Archeologyhelptounderstandhistoryandculture.
+⦁Doyouknowthebootwhosewesawtheotherday?
+⦁Shehadtakenherfather’sadviceliterally.
+⦁HeatwaveshappeneveryeveryyearinIndia.
+⦁Thissituationaffectedhimgreatly.
+⦁MycousinwonderedifshecouldhavemajoredinFrench.
+⦁Themusichasagreateffectoneverybody.
+⦁Mysiblingsalwaysstudydiligently.
+15
+⦁Polandusedtobecommunistcountry.
+⦁Theyoftenshareabottleofwine,whilereminiscingoverfamilyphotoalbums.
+⦁Thisparticularquoteisindeedinspiring.
+⦁Therewasadearthofusablefirewoodatthecampsite.
+⦁Corruptionisatitspeakduringelectiontime.
+⦁Theirchildren’sdidn’tstopwhining.
+⦁You’llhavetobearyourconsequencesofyouractions.
+⦁Themeparksareasourceoffunforpeopleofallages.
+⦁IthinkabouthalfofsouthAmericausesvotingtechnology.
+⦁IwenttotheUniversityofBristolwhereIstudiedchemistry.
+⦁Thisiswhatwewouldcallastateofequilibrium.
+⦁Professorsmithwillbelatefortoday’slecture.
+⦁Threeofthestudentswereconfusedbythekeyhypothesis.
+⦁Thecirculationdeskislocatedonthegroundfloor.
+⦁Patientsdiagnosedwithheartfailurewilloftenreportbeingdepressed.
+⦁Therewaslittleavailableevidencetocontradicthisviewpoint.
+⦁Wehavetohandourassignmentsintomorrowatthe[latest.
+⦁Themajorityofstudentsinthiscollegearepostgraduates.
+⦁Allfirstyearstudentsshouldattendtheintroductorylecturetoday.
+⦁Remembertotakeallyourbelongingswhenyouleavethelab.
+⦁PASSAGERECONSTRUCTION
+⦁1)Johnisthesalesmanagerofasmallstore.Anangrycustomercalledhimtocomplain about a home security system that she had recently bought from his store. She told him that it did not work properly because the alarm went off when she was in the house. Initially she demanded a refund, but when john apologized, and offered to replace her system with a new one, she agreed.
+⦁2)Samwasonabusyflightthathadbeendelayed.Theplanefinallylandedand arrived at the gate. Then all the passengers got up to get their luggage. The woman in front of Sam accidentally bumped him in the arm. Just as she was apologizing, her bag fell from the overhead compartment and hit him on
+16
+the head. The woman felt awful. Sam decided he didn’t want to fly again anytime soon.
+⦁3)Marywonthisyear’sbestteacherawardatheruniversity.Shehadbeenknown for her creative and unique teaching style for many years. Her award included a trip to Paris for one week. Mary and her husband have never been to Paris and they are very excited about it.
+⦁4)Employeeswhowishtotaketimeoffduringthesummershouldcheckwiththeir managers in advance. Many people plan to be away from the office during the summer. As a company, we’d like to make sure all projects have enough people working on them before we approve requests for time off.
+⦁5)Robertwenttoanicerestaurantfordinner.Whenthewaiterbroughtthebill, Robert reached for his wallet, but it wasn’t in his pocket. He remembered having his wallet when he came into the restaurant. The waiter looked around the floor near his table. He found the wallet under the table.
+⦁6)JamesandAnnweredrivingtotheairport.AnnaskedJamesifhehadremembered to take his passport. He realized that he had forgotten it. He had left it in his jacket pocket at home. They turned around to pick it up. They arrived at the airport just in time to catch their flight.
+⦁7)IwasattheinternationalTradeFairinRomelastweek,anditwasveryexciting. Rome is a beautiful city. There were people from all over the world at the fair. I met a sale manager whose company sells software and it sounded like there might be a business opportunity. I’ll definitely stay in touch with him as a business contact. I’m writing a report of the trip right now and I should be able to send it out by noon today.
+⦁8)Ireceivedacoupleofgoodarticlesabouthowtobeproductiveeverydayat work. I think you will find them useful. These were forwarded by our New York branch. Click on the link below to view the articles. You might learn something new.
+⦁9)Ourgymislocatedacrossfromyourofficeandiscurrentlyofferingaspecialdiscount to all employees working in your office. According to researchers, getting exercise regularly is a great way to stay positive and healthy. If you sign up for a membership this week, you can get a personal trainer to help you on your first five visits.
+⦁10)Thisisourannualremindertoallemployees.Ourhospitalisknowninourcommunity for excellent customer care. We have been providing friendly and quality services to all our patients and are committed to doing the same again this year. Great your patients with a smile and hospitality.
+⦁11)Afterworkingforthirtyyearsasasalesperson,Jamesdecidedtoretire.Thefirst few weeks of his retired life were fine. He relaxed and spent a lot of time
+17
+reading. After a month, he started to get bored. He decided to volunteer at the local animal rescue center. He loved working with the animals, and was glad to have a scheduled activity to do each day.
+⦁12)Thankyouforyourinterestinourcertificateprogram.Theprogramisspecifically designed for people with a full-time job. All our classes are offered at night and on weekends. Not only can our program offer you the knowledge you need in your field, it will also give you the opportunity to meet with people working in the same industry a s you are. Don’t hesitate to contact me if you have any questions.
+⦁13)AsItoldyouatourlastmeeting,Iammovingontoanewpositioninanother company next week. My last working day is Friday January 25th. Thanks for being such great team to work with I will miss you all and hope you will stay in touch.
+⦁14)Annapickeduphersuitfromthedrycleaners.Aftershehadpaid,shenoticed that the cleaners had not cleaned the suit properly. She politely bought this to their attention, and requested a refund. Although the cleaner apologized, he said that it was not his fault, refused to give Anna a refund.
+⦁15)Thankyousomuchfordinnerlastnight.Wehadareallygoodtime.Weare especially glad to be able to meet your little daughter. I hope you will be able to come to visit us someday soon. Let’s stay in touch.
+⦁16)Markyourcalendarsfortheofficeparty!Thisyear,wearehavingabarbecue, Saturday night 6.p.m. Dress is casual. Please sign up and tell how many people you will be bringing. See you there!
+⦁17)Johnboughtanewphoneandwaslookingforwardtotryingitassoonaspossible. The moment John got home, he tried to turn it on, but it didn't work. He immediately drove back to the store. The salesperson was very nice and showed John how to insert the battery. John was pleased that the phone was working properly, but at the same time, he felt very embarrassed because he should read the instructions.
+⦁RECONSTRUCTED−PASSAGE-ANSWERS:
+⦁IreceivedacoupleofgoodarticlesbyourNewYorkbranchabouthowtobe productive everyday how to be productive everybody at work. I think you will find them useful and you might I earn something new, to view articles, click on the link below.
+⦁Annapickeduphersuitfromthedrycleaners.Aftershehadpaid,shenoticed that the suit was not cleaned properly. So, she politely brought this to their attention, and requested a refund. The cleaner apologized to Anna and refused to give a refund.
+⦁Thankyousomuchfordinnerlastnight,wereallyhadagreattime.We
+18
+were especially gland to meet your little daughter. I hope you would visit us soon. Let’s stay in touch.
+⦁Samwasonabusyplanethathasbeenjustarrivedafteradelay.Whenall the passengers got up to their luggage the woman in front of Sam bumped him in his arm. By the time she was apologizing her bag from overhead compartment fell on his head, the woman felt embarrassed. Sam thought that I will never fly again during busy days.
+⦁Employeeswhowishtotaketimeoffduringthesummershouldcheckwith the manager in advance. As a company we would like to make sure all the projects have enough people working request to time off.
+⦁MarywastheteacherwhowonthebestteacherawardthisyearatherUniversity. It is her creative and unique teaching style that made her eligible for the award. The award includes a free trip to Paris. As Mary and her husband had never been to Paris they were very excited and feeling happy., conversation -1. Speaker 1: What do you do?
+   Speaker 2: I’m a teacher.
+   Speaker 1: It must be fun working with kids.
+   What is the woman’s job?
+   The woman is a teacher.
+
+2. Speaker 1: My coffee is cold.
+   Speaker 2: Let me heat it up in the microwave.
+   Speaker 1: Thanks.
+   What is cold?
+   The coffee is cold.
+
+3. Speaker 1: I need to sign this form.
+   Speaker 2: Do you want to borrow my pen?
+   Speaker 1: Yes, that would be great.
+   What does the woman need to borrow?
+   The woman needs to borrow a pen.
+
+4. Speaker 1: Do you want to come to the café with me?
+   Speaker 2: I can’t. I have to clean the house.
+   Speaker 1: You can always do that later.
+   Why can’t the woman go to the café?
+   The woman can’t go to the café because she needs to clean the house.
+
+5. Speaker 1: What’s the weather supposed to be like on Sunday?
+   Speaker 2: It’s supposed to be warm.
+   Speaker 1: Great, we can go to the beach.
+   What will the weather be like on Sunday?
+   The weather will be warm on Sunday.
+
+6. Speaker 1: Let’s meet in front of the library on Friday.
+   Speaker 2: Sounds good. What time?
+   Speaker 1: At two o’clock.
+   Where will they meet on Friday?
+   They will meet in front of the library on Friday.
+
+7. Speaker 1: What should I bring to your house?
+   Speaker 2: You can bring some tomatoes for the salad.
+   Speaker 1: Sure, how many do you need?
+   What will the woman bring?
+   The woman will bring tomatoes for the salad.
+
+8. Speaker 1: They should be done painting the house on Friday.
+   Speaker 2: I don’t believe that. There’s so much left to do.
+   Speaker 1: I know, we’ll see.
+   What should be done on Friday?
+   Painting the house should be done by Friday.
+
+9. Speaker 1: How does someone go about getting a certificate?
+   Speaker 2: They have to pass the test.
+   Speaker 1: When can I sign up for the test?
+   What do people who pass the test get?
+   People who pass the test get a certificate.
+
+10. Speaker 1: According to the weather forecast, it’s going to rain all weekend.
+    Speaker 2: Oh no, I guess you can’t go camping after all.
+    Speaker 1: I’ll have to save that trip for another weekend.
+    What does the man need to postpone?
+    The man needs to postpone camping.
+
+11. Speaker 1: Who were you talking to on the phone?
+    Speaker 2: It was a journalist. He wanted to schedule an interview with the mayor.
+    Speaker 1: I bet he’s curious about the mayor’s new plans for the city.
+    Who was the man talking to on the phone?
+    The man was talking to a journalist on the phone.
+
+12. Speaker 1: Do you like the color of this shirt?
+    Speaker 2: I’m okay with that. Actually, it’s the fabric I’m not crazy about.
+    Speaker 1: Yes, I see what you mean. Let’s look at some other ones.
+    What does the man not like about the shirt?
+    The man does not like the fabric of the shirt.
+
+13. Speaker 1: Where are my glasses?
+    Speaker 2: I think they’re on the table.
+    Speaker 1: All right, thank you.
+    Where are the woman’s glasses?
+    The woman’s glasses are on the table.
+
+14. Speaker 1: My coffee is cold.
+    Speaker 2: Let me heat it up in the microwave.
+    Speaker 1: Thanks.
+    What is cold?
+    The coffee is cold.
+
+15. Speaker 1: Do you want to come to the café with me?
+    Speaker 2: I can’t. I have to clean the house.
+    Speaker 1: You can always do that later.
+    Why can’t the woman go to the café?
+    The woman can’t go to the café because she needs to clean the house.
+
+16. Speaker 1: Are you done reading this magazine?
+    Speaker 2: No, but you can take it if you want.
+    Speaker 1: Thanks, I’ll bring it back tomorrow.
+    What did the woman borrow?
+    The woman borrowed the magazine.
+
+17. Speaker 1: What should I bring to your house?
+    Speaker 2: You can bring some tomatoes for the salad.
+    Speaker 1: Sure, how many do you need?
+    What will the woman bring?
+    The woman will bring tomatoes for the salad.
+
+18. Speaker 1: I’m sorry, but I can’t check this book out to you.
+    Speaker 2: But I have a library card and I come here all the time.
+    Speaker 1: Yes, but you have several items that have not been returned.
+    Why can’t the man check out the book?
+    He can’t check out the book because he has several items that have not been returned.
+
+19. Speaker 1: They should be done painting the house on Friday.
+    Speaker 2: I don’t believe that. There’s so much left to do.
+    Speaker 1: I know, we’ll see.
+    What should be done on Friday?
+    Painting the house should be done by Friday.
+
+20. Speaker 1: I’m going to change my flight reservation.
+    Speaker 2: Why is that?
+    Speaker 1: I need to leave a day later.
+    What does the woman need to change?
+    She needs to change her flight reservation.
+
+21. Speaker 1: Can you believe that I finished cooking all the food already?
+    Speaker 2: Wow, how did you do it so quickly?
+    Speaker 1: I woke up at four in the morning.
+    What did the woman finish?
+    The woman finished cooking all the food.
+
+22. Speaker 1: Can you believe that I finished cooking all the food already?
+    Speaker 2: Wow, how did you do it so quickly?
+    Speaker 1: I woke up at four in the morning.
+    What did the woman finish?
+    The woman finished cooking all the food.
+
+23. Speaker 1: Where is the restroom?
+    Speaker 2: There’s one by the escalator.
+    Speaker 1: Is it open to the public?
+    Where is the restroom located?
+    The restroom is located near the escalator.
+
+24. Speaker 1: Is the bus the fastest way to get home?
+    Speaker 2: Actually, I think walking might be faster. The bus is very slow.
+    Speaker 1: You’re probably right.
+    How will the woman get home?
+    The woman will get home by walking.
+
+25. Speaker 1: Did you finish your homework?
+    Speaker 2: Not yet, I’ll do it after dinner.
+    Speaker 1: Don’t forget it’s due tomorrow.
+    When will the woman finish her homework?
+    The woman will finish her homework after dinner.
+
+26. Speaker 1: Where did you park the car?
+    Speaker 2: I left it near the entrance.
+    Speaker 1: Okay, I’ll go get it.
+    Where is the car parked?
+    The car is parked near the entrance.
+
+27. Speaker 1: What time does the movie start?
+    Speaker 2: It starts at 7 p.m.
+    Speaker 1: We should leave soon then.
+    What time does the movie start?
+    The movie starts at 7 p.m.
+
+28. Speaker 1: Why are you wearing a jacket?
+    Speaker 2: It’s really cold outside.
+    Speaker 1: I didn’t realize that.
+    Why is the woman wearing a jacket?
+    The woman is wearing a jacket because it is cold outside.
+
+29. Speaker 1: Can you help me carry these bags?
+    Speaker 2: Of course, they look heavy.
+    Speaker 1: Thank you so much.
+    What does the woman need help with?
+    The woman needs help carrying the bags.
+
+30. Speaker 1: Have you seen my keys?
+    Speaker 2: Yes, they’re on the kitchen counter.
+    Speaker 1: Oh, I see them now.
+    Where are the keys?
+    The keys are on the kitchen counter.
+
+31. Speaker 1: Why are you late today?
+    Speaker 2: The traffic was terrible this morning.
+    Speaker 1: That explains it.
+    Why is the woman late?
+    The woman is late because the traffic was terrible.
+
+32. Speaker 1: What are you doing this weekend?
+    Speaker 2: I’m going to visit my grandparents.
+    Speaker 1: That sounds nice.
+    What will the woman do this weekend?
+    The woman will visit her grandparents this weekend.
+
+33. Speaker 1: Did you buy the tickets?
+    Speaker 2: Yes, I got them online.
+    Speaker 1: Great, we’re all set.
+    How did the woman buy the tickets?
+    The woman bought the tickets online.
+
+34. Speaker 1: Where are you going now?
+    Speaker 2: I’m heading to the gym.
+    Speaker 1: See you later.
+    Where is the woman going?
+    The woman is going to the gym.
+
+35. Speaker 1: Why is the door open?
+    Speaker 2: I think someone forgot to close it.
+    Speaker 1: We should lock it now.
+    Why is the door open?
+    The door is open because someone forgot to close it.
+
+36. Speaker 1: What did you eat for lunch?
+    Speaker 2: I had a sandwich and some juice.
+    Speaker 1: That sounds healthy.
+    What did the woman eat for lunch?
+    The woman ate a sandwich and some juice.
+
+37. Speaker 1: Are you coming to the party tonight?
+    Speaker 2: Yes, I wouldn’t miss it.
+    Speaker 1: See you there.
+    Will the woman go to the party?
+    Yes, the woman will go to the party.
+
+38. Speaker 1: Did you call the doctor?
+    Speaker 2: Yes, I made an appointment for tomorrow.
+    Speaker 1: That’s good to hear.
+    When is the appointment?
+    The appointment is tomorrow.
+
+39. Speaker 1: Why are you so tired today?
+    Speaker 2: I didn’t sleep well last night.
+    Speaker 1: You should rest early tonight.
+    Why is the woman tired?
+    The woman is tired because she didn’t sleep well last night.
+
+40. Speaker 1: Where did you buy this dress?
+    Speaker 2: I got it from the mall yesterday.
+    Speaker 1: It looks great on you.
+    Where did the woman buy the dress?
+    The woman bought the dress from the mall.
+
+41. Speaker 1: What are you looking for?
+    Speaker 2: I’m trying to find my phone.
+    Speaker 1: Did you check your bag?
+    What is the woman looking for?
+    The woman is looking for her phone.
+
+42. Speaker 1: Why are you smiling?
+    Speaker 2: I just received some good news.
+    Speaker 1: That’s wonderful!
+    Why is the woman smiling?
+    The woman is smiling because she received good news.
+
+43. Speaker 1: How are you getting to the airport?
+    Speaker 2: I’m taking a taxi.
+    Speaker 1: That’s convenient.
+    How will the woman get to the airport?
+    The woman will get to the airport by taxi.
+
+44. Speaker 1: Did you finish the project?
+    Speaker 2: Yes, I submitted it this morning.
+    Speaker 1: Great job.
+    When did the woman submit the project?
+    The woman submitted the project this morning.
+
+45. Speaker 1: Why is the window open?
+    Speaker 2: I wanted to let some fresh air in.
+    Speaker 1: That makes sense.
+    Why is the window open?
+    The window is open to let fresh air in.
+
+46. Speaker 1: What are you reading?
+    Speaker 2: I’m reading a novel.
+    Speaker 1: Is it interesting?
+    What is the woman reading?
+    The woman is reading a novel.
+
+47. Speaker 1: Where are you going on vacation?
+    Speaker 2: I’m going to the mountains.
+    Speaker 1: That sounds relaxing.
+    Where is the woman going on vacation?
+    The woman is going to the mountains.
